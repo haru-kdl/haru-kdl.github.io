@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<url>
+	 	<loc>http://test.github.io/dev/</loc>
+	 	<lastmod>2016-08-16</lastmod>
+	 	<changefreq>weekly</changefreq>
+	</url>
+
+	<url>
+	 	<loc>http://test.github.io/dev/archives/</loc>
+	 	<lastmod>2016-08-16</lastmod>
+	 	<changefreq>weekly</changefreq>
+	</url>
+
+	<url>
+	 	<loc>http://test.github.io/dev/categories/</loc>
+	 	<lastmod>2016-08-16</lastmod>
+	 	<changefreq>weekly</changefreq>
+	</url>
+
+	<url>
+	 	<loc>http://test.github.io/dev/tags/</loc>
+	 	<lastmod>2016-08-16</lastmod>
+	 	<changefreq>weekly</changefreq>
+	</url>
+
+	
+	<url>
+	 	<loc>http://test.github.io/dev/testcategory/2016/06/15/FirestPost/</loc>
+	 	<lastmod>2016-06-15</lastmod>
+	 	<changefreq>never</changefreq>
+	</url>
+	
+	<url>
+	 	<loc>http://test.github.io/dev/jekyll/2013/12/18/welcome-to-jekyll/</loc>
+	 	<lastmod>2013-12-18</lastmod>
+	 	<changefreq>never</changefreq>
+	</url>
+	 
+	
+</urlset>

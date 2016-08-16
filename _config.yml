@@ -1,0 +1,38 @@
+# Change your site name, url, etc.
+name: dev-kobe
+url: http://test.github.io
+baseurl: /dev
+timezone: Asia/Tokyo
+encoding: utf-8
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough", "tables", "fenced_code_blocks"]
+
+#pygments: true
+highlighter: true
+permalink: pretty
+paginate: 5
+
+# Change your name, GitHub name, Twitter id, etc.
+owner : 
+  name : test
+  github : test
+  twitter : test
+#  googleplus : 
+#  facebook : 
+
+# See http://schema.org/Article
+schema_article_type : Article
+
+#google_analytics :
+#  tracking_id : 'UA-XXXXXXXX-X'
+
+#addthis:
+#  pub_id: 'ra-XXXXXXXXXXXXXXX'
+
+#exclude: ["README.md", "LICENSE", ".gitignore", "s3_website.yml"]
+exclude: ["README.md", "LICENSE", ".gitignore"]
+
+# Gems
+gems: [jekyll-paginate]
