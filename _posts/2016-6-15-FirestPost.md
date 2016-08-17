@@ -10,7 +10,8 @@ published: true
 テストの投稿です。
 
 # 画像
-テスト
+![9brngu000000iqfu.jpg](_posts/9brngu000000iqfu.jpg)
+
 
 # 内容
 * 見出し
