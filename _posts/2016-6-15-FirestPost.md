@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: post
 title: First Post 2
-categories: Testcategory
-tags: testtag
+date:   2016-07-07 11:11:11
+categories: IoT
+tags: testtag blog
 ---
 
 # はじめに
