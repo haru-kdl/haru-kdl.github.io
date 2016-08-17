@@ -1,9 +1,10 @@
 ---
 layout: post
 title: First Post 2
-date:   2016-07-07 11:11:11
+date: {}
 categories: IoT
 tags: testtag blog
+published: true
 ---
 
 # はじめに
@@ -18,6 +19,7 @@ tags: testtag blog
  - 見出し２
   - 見出し３
 
+![9brngu000000iqfu.jpg]({{site.baseurl}}/_posts/9brngu000000iqfu.jpg)
 
 ```
 <?php>test<php?>
