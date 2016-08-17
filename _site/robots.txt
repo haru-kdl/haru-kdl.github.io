@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: http://test.github.io/dev/sitemap.xml
+Sitemap: http://haru-kdl.github.io/sitemap.xml
 Disallow:

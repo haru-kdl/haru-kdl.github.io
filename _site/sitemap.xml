@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 	<url>
-	 	<loc>http://test.github.io/dev/</loc>
+	 	<loc>http://haru-kdl.github.io/</loc>
 	 	<lastmod>2016-08-17</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
 
 	<url>
-	 	<loc>http://test.github.io/dev/archives/</loc>
+	 	<loc>http://haru-kdl.github.io/archives/</loc>
 	 	<lastmod>2016-08-17</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
 
 	<url>
-	 	<loc>http://test.github.io/dev/categories/</loc>
+	 	<loc>http://haru-kdl.github.io/categories/</loc>
 	 	<lastmod>2016-08-17</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
 
 	<url>
-	 	<loc>http://test.github.io/dev/tags/</loc>
+	 	<loc>http://haru-kdl.github.io/tags/</loc>
 	 	<lastmod>2016-08-17</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
 
 	
 	<url>
-	 	<loc>http://test.github.io/dev/iot/2016/07/07/FirestPost/</loc>
+	 	<loc>http://haru-kdl.github.io/iot/2016/07/07/FirestPost/</loc>
 	 	<lastmod>2016-07-07</lastmod>
 	 	<changefreq>never</changefreq>
 	</url>
 	
 	<url>
-	 	<loc>http://test.github.io/dev/jekyll/2013/12/18/welcome-to-jekyll/</loc>
+	 	<loc>http://haru-kdl.github.io/jekyll/2013/12/18/welcome-to-jekyll/</loc>
 	 	<lastmod>2013-12-18</lastmod>
 	 	<changefreq>never</changefreq>
 	</url>

@@ -1,7 +1,7 @@
 # Change your site name, url, etc.
 name: dev-kobe
-url: http://test.github.io
-baseurl: /dev
+url: http://haru-kdl.github.io
+baseurl: 
 timezone: Asia/Tokyo
 encoding: utf-8
 
@@ -16,9 +16,9 @@ paginate: 5
 
 # Change your name, GitHub name, Twitter id, etc.
 owner : 
-  name : test
-  github : test
-  twitter : test
+  name : haru-kdl
+  github : haru-kdl
+  twitter : 
 #  googleplus : 
 #  facebook : 
 

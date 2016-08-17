@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   
- <id>http://test.github.io/dev</id>
+ <id>http://haru-kdl.github.io</id>
  <title></title>
- <updated>2016-08-17T13:12:20+09:00</updated>
- <link rel="self" href="http://test.github.io/dev/atom.xml"/>
- <link href="http://test.github.io/dev/"/>
- <author><name>test</name></author>
+ <updated>2016-08-17T13:21:41+09:00</updated>
+ <link rel="self" href="http://haru-kdl.github.io/atom.xml"/>
+ <link href="http://haru-kdl.github.io/"/>
+ <author><name>haru-kdl</name></author>
 
  
  <entry>
-  <id>http://test.github.io/dev/iot/2016/07/07/FirestPost</id>
+  <id>http://haru-kdl.github.io/iot/2016/07/07/FirestPost</id>
   <title>First Post 2</title>
   <updated>2016-07-07T20:11:11+09:00</updated>
-  <link href="http://test.github.io/dev/iot/2016/07/07/FirestPost/"/>
+  <link href="http://haru-kdl.github.io/iot/2016/07/07/FirestPost/"/>
   <content>はじめに
 
 テストの投稿です。
@@ -41,10 +41,10 @@ TEST
  </entry>
  
  <entry>
-  <id>http://test.github.io/dev/jekyll/2013/12/18/welcome-to-jekyll</id>
+  <id>http://haru-kdl.github.io/jekyll/2013/12/18/welcome-to-jekyll</id>
   <title>Welcome to Jekyll!</title>
   <updated>2013-12-18T06:56:35+09:00</updated>
-  <link href="http://test.github.io/dev/jekyll/2013/12/18/welcome-to-jekyll/"/>
+  <link href="http://haru-kdl.github.io/jekyll/2013/12/18/welcome-to-jekyll/"/>
   <content>You&amp;#39;ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
 To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
