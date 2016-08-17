@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post 初めての投稿
+title: 初投稿
 date: {}
 categories: IoT
 tags: testtag blog
@@ -11,7 +11,7 @@ published: true
 テストの投稿です。
 
 # 画像
-
+テスト
 
 # 内容
 * 見出し
