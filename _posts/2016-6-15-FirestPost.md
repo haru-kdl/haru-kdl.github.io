@@ -10,7 +10,7 @@ published: true
 テストの投稿です。
 
 # 画像
-![9brngu000000iqfu.jpg]({{site.baseurl}}/_posts/9brngu000000iqfu.jpg)
+![9brngu000000iqfu.jpg](/_posts/9brngu000000iqfu.jpg)
 
 
 
