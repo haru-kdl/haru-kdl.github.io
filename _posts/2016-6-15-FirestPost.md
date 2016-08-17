@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 初投稿
-date: {}
 categories: IoT
 tags: testtag blog
 published: true
