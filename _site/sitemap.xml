@@ -3,32 +3,32 @@
 
 	<url>
 	 	<loc>http://test.github.io/dev/</loc>
-	 	<lastmod>2016-08-16</lastmod>
+	 	<lastmod>2016-08-17</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
 
 	<url>
 	 	<loc>http://test.github.io/dev/archives/</loc>
-	 	<lastmod>2016-08-16</lastmod>
+	 	<lastmod>2016-08-17</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
 
 	<url>
 	 	<loc>http://test.github.io/dev/categories/</loc>
-	 	<lastmod>2016-08-16</lastmod>
+	 	<lastmod>2016-08-17</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
 
 	<url>
 	 	<loc>http://test.github.io/dev/tags/</loc>
-	 	<lastmod>2016-08-16</lastmod>
+	 	<lastmod>2016-08-17</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
 
 	
 	<url>
-	 	<loc>http://test.github.io/dev/testcategory/2016/06/15/FirestPost/</loc>
-	 	<lastmod>2016-06-15</lastmod>
+	 	<loc>http://test.github.io/dev/iot/2016/07/07/FirestPost/</loc>
+	 	<lastmod>2016-07-07</lastmod>
 	 	<changefreq>never</changefreq>
 	</url>
 	
