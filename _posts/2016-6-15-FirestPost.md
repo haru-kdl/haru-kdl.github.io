@@ -11,7 +11,7 @@ published: true
 テストの投稿です。
 
 # 画像
-![テスト.jpg]({{site.baseurl}}/_posts/9brngu000000iqfu.jpg)
+![テスト.jpg](/_posts/9brngu000000iqfu.jpg)
 
 
 # 内容
